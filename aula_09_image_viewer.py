@@ -1,5 +1,5 @@
 # Building a simple image viewer
-# Rever a aula e terminar
+# ---------------------------------------------------Rever a aula e terminar ------------------------------------------
 from tkinter import *
 from PIL import ImageTk, Image
 
